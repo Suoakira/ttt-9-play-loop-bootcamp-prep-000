@@ -35,4 +35,8 @@ def turn(board)
   end
 end
 
+def play 
+  while
+  do turn
+
 
