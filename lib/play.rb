@@ -43,6 +43,7 @@ def play(board)
   end
   if counter == 9 
     puts "Thanks for Playing"
+  end
 end
 
 
