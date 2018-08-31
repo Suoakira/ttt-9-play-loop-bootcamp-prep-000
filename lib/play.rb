@@ -35,8 +35,11 @@ def turn(board)
   end
 end
 
-def play 
-  while
-  do turn
+def play
+  counter = 0
+  do turn(board) until counter = 9 
+    counter += 1 
+  end
+end
 
 
